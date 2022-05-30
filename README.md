@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Mr-Jangoon
 - 👀 I’m interested in making the bots that disappoint many at a time
-- 🌱 I’m currently learning python but with funky modules
-- 💞️ I’m looking to collaborate on nothing, dont ask me (unless...)
-- 📫 How to reach me:-
-
-                  dont
+- 📫 How to reach me:- 
 
 <!---
 Mr-Jangoon/Mr-Jangoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
